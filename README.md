@@ -1,3 +1,13 @@
-# Website.
-
-![Screen Shot 2016-10-10 at 10 12 53 PM](https://user-images.githubusercontent.com/26520289/61286665-98786880-a7c3-11e9-8ab9-2fa94324dfca.png)
+# Website.  
+</br>
+PACKAGE DATE: 2017/06/21 3:23 PM </br>
+Creation Date: 2017/06/21 </br>
+Modification Date: 2017/06/21 </br>
+</br>
+CONTACT INFORMATION</br>
+Company Name: Baakens Food Truck Friday/ WERK_ </br>
+Address: 2 Alabaster Street, Baakens Valley, 6001, Port Elizabeth, Eastern Cape </br> 
+</br>
+SPECIAL INSTRUCTIONS AND OTHER NOTES</br>
+To get started just clone/ download this repo, right-click the index.html file and preferably open with Google Chrome.
+</br>
