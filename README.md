@@ -1,4 +1,4 @@
-# Planning files made prior to first event launch.  
+# Planning files made prior to first event launch 
 </br>
 PACKAGE DATE: 2017/06/21 3:23 PM </br>
 Creation Date: 2017/06/21 </br>
