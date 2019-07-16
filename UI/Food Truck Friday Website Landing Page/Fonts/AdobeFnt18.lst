@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.18
+%Locale:0x1c09
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo-300
+FamilyName:Museo
+StyleName:300
+FullName:Museo 300
+MenuName:Museo 300
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\BAAKENS FOOD TRUCK FRIDAY\WERK_ Food Truck Friday\FOOD TRUCK FRIDAY - Landing Page Folder\Document fonts\Museo300-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:127096
+FileModTime:1472812366
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Museo 300
+NameArray:0,Win,1,Museo 300
+NameArray:0,Win,16,Museo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo-700
+FamilyName:Museo
+StyleName:700
+FullName:Museo 700
+MenuName:Museo 700
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\BAAKENS FOOD TRUCK FRIDAY\WERK_ Food Truck Friday\FOOD TRUCK FRIDAY - Landing Page Folder\Document fonts\Museo700-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:129080
+FileModTime:1472812598
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Museo 700
+NameArray:0,Win,1,Museo 700
+NameArray:0,Win,16,Museo
+%EndFont
+
