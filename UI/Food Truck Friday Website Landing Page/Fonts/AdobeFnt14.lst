@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo-300
+FamilyName:Museo
+StyleName:300
+MenuName:Museo 300
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Museo 300
+WritingScript:Roman
+OutlineFileName:\Museo300-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:127096
+FileModTime:1472819566
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo-700
+FamilyName:Museo
+StyleName:700
+MenuName:Museo 700
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Museo 700
+WritingScript:Roman
+OutlineFileName:\Museo700-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:129080
+FileModTime:1472819798
+%EndFont
+
