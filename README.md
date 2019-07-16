@@ -1,4 +1,4 @@
-# Initial landing page and presentation made for stakeholders.
+# Initial landing page and final presentation.
 </br>
 PACKAGE DATE: 2017/06/21 3:23 PM </br>
 Creation Date: 2017/06/21 </br>
@@ -11,4 +11,5 @@ FILE PACKAGE LIST </br>
 1. FOOD TRUCK FRIDAY - Landing Page.indd; type: Adobe InDesign publication; size: 1228K </br>
 2. FOOD TRUCK FRIDAY - Presentation.pdf; type: Adobe Reader publication; size: 100 698KB
 
-![Food Truck Friday Landing Page](https://user-images.githubusercontent.com/26520289/61290450-353f0400-a7cc-11e9-9d22-9915e3793a9d.png)
+![Untitled](https://user-images.githubusercontent.com/26520289/61291321-82bc7080-a7ce-11e9-924a-29be45be8ff0.png)
+
