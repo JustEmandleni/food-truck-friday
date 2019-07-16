@@ -1,6 +1,6 @@
 # Planning files made prior to first event launch 
 </br>
-<h1>Navigate through the different branches.</h1>
+Navigate through the different branches to view the rest of the project.
 </br>
 PACKAGE DATE: 2017/06/21 3:23 PM </br>
 Creation Date: 2017/06/21 </br>
