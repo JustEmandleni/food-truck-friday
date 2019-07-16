@@ -1,6 +1,6 @@
 # Planning files made prior to first event launch 
+Navigate through the different branches to view the rest of the project. 
 </br>
-Navigate through the different branches to view the rest of the project.
 
 ![Screen Shot 2016-10-10 at 10 12 53 PM](https://user-images.githubusercontent.com/26520289/61289537-d5dff480-a7c9-11e9-88fb-4ed0a895972f.png)
 
