@@ -11,6 +11,14 @@ Address: 2 Alabaster Street, Baakens Valley, 6001, Port Elizabeth, Eastern Cape 
 SPECIAL INSTRUCTIONS AND OTHER NOTES</br>
 To get started just clone/ download this repo, right-click the index.html file and preferably open with Google Chrome.
 </br>
+<h1>Special instructions and other notes</h1>
+Hi, thanks for checking this out! </br>
+</br>
+This navigate through different branches to see more! This repo has some of the files I worked on at WERK_. It is a project made up of all the initial planning files, mock ups, marketing footage, social media sprint plans, user interface designs and a website. <b>Download the files and open the 'index.html' file using Google Chrome.</b> 
+</br> </br>
+
+![Food Truck Friday Facebook Post 1](https://user-images.githubusercontent.com/26520289/61290757-ee054300-a7cc-11e9-8487-6f2e441f111c.jpg)
+
 <h1>Planning files made prior to first event launch </h1>
   
 Navigate through the different branches to view the rest of the project. 
