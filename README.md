@@ -1,4 +1,4 @@
-# Website.  
+# WERK_  
 </br>
 PACKAGE DATE: 2017/06/21 3:23 PM </br>
 Creation Date: 2017/06/21 </br>
@@ -14,7 +14,8 @@ To get started just clone/ download this repo, right-click the index.html file a
 <h1>Special instructions and other notes</h1>
 Hi, thanks for checking this out! </br>
 </br>
-This navigate through different branches to see more! This repo has some of the files I worked on at WERK_. It is a project made up of all the initial planning files, mock ups, marketing footage, social media sprint plans, user interface designs and a website. <b>Download the files and open the 'index.html' file using Google Chrome.</b> 
+This navigate through different branches to see more! This repo has some of the files I worked on at WERK_. It is a project made up of all the initial planning right up to implementation. Contents: user interface mock up files, marketing footage, social media sprint plans, user interface designs and a website. 
+<b>Download the files and open the 'index.html' file using Google Chrome.</b> 
 </br> </br>
 
 ![Food Truck Friday Facebook Post 1](https://user-images.githubusercontent.com/26520289/61290757-ee054300-a7cc-11e9-8487-6f2e441f111c.jpg)
@@ -27,3 +28,5 @@ Navigate through the different branches to view the rest of the project.
 ![Screen Shot 2016-10-10 at 10 12 53 PM](https://user-images.githubusercontent.com/26520289/61289537-d5dff480-a7c9-11e9-88fb-4ed0a895972f.png)
 
 ![Food Truck Friday Floor Plan Layout](https://user-images.githubusercontent.com/26520289/61288773-1fc7db00-a7c8-11e9-96ee-bca6449da658.jpg)
+</br>
+![Landing Page](https://user-images.githubusercontent.com/26520289/61291590-37ef2880-a7cf-11e9-9910-8b88c6ea8ea7.png)
