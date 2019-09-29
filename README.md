@@ -31,3 +31,13 @@ Navigate through the different branches to view the rest of the project.
 ![Food Truck Friday Floor Plan Layout](https://user-images.githubusercontent.com/26520289/61288773-1fc7db00-a7c8-11e9-96ee-bca6449da658.jpg)
 </br>
 ![Landing Page](https://user-images.githubusercontent.com/26520289/61291590-37ef2880-a7cf-11e9-9910-8b88c6ea8ea7.png)
+</br>
+![1](https://user-images.githubusercontent.com/26520289/65836817-83a36f80-e2f2-11e9-82b3-c830e4a8aca8.png)
+</br>
+
+![2](https://user-images.githubusercontent.com/26520289/65836795-6e2e4580-e2f2-11e9-9944-36684b34759e.png)
+</br>
+
+![3](https://user-images.githubusercontent.com/26520289/65836713-29a2aa00-e2f2-11e9-9ea2-0716b6ce990d.png)
+</br>
+![4](https://user-images.githubusercontent.com/26520289/65836885-d67d2700-e2f2-11e9-884f-3b9ce492eda9.png)
