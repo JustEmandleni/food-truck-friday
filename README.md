@@ -1,9 +1,16 @@
 # WERK_  
-</br>
+
 PACKAGE DATE: 2017/06/21 3:23 PM </br>
 Creation Date: 2017/06/21 </br>
 Modification Date: 2017/06/21 </br>
+
 </br>
+
+### Description
+A fully responsive website with fixed content. Developed from photoshop wireframes and hand sketched user interface wireframes provided by a team of two graphic designers. Remote, collaborative effort.
+
+</br>
+
 CONTACT INFORMATION</br>
 Company Name: Baakens Food Truck Friday/ WERK_ </br>
 Address: 2 Alabaster Street, Baakens Valley, 6001, Port Elizabeth, Eastern Cape </br>
