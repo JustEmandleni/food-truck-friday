@@ -22,7 +22,7 @@ To get started just clone/ download this repo, right-click the index.html file a
 <h1>Special instructions and other notes</h1>
 Hi, thanks for checking this out! </br>
 </br>
-This navigate through different branches to see more! This repo has some of the files I worked on at WERK_. It is a project made up of all the initial planning right up to implementation. Contents: user interface mock up files, marketing footage, social media sprint plans, user interface designs and a website. 
+Navigate through different branches to see more! This repo has some of the files I worked on at WERK_. It is a project made up of all the initial planning right up to implementation. Contents: user interface mock up files, marketing footage, social media sprint plans, user interface designs and a website. 
 <b>Download the files and open the 'index.html' file using Google Chrome.</b> 
 </br> </br>
 
